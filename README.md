@@ -1,5 +1,5 @@
-# Swift-Language-Tour-Notes
-Swift Language Tour Notes
+# Swift Language Tour Notes
+These notes are taken from [Swift Language Tour Notes.]([url](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html))
 
 ```swift
 //
