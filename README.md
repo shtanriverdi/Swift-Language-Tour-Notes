@@ -427,7 +427,7 @@ do {
     print(error)
 }
 
-let printerSuccess = try? send(job: 1884, toPrinter: "Meba")
+let printerSuccess = try? send(job: 1884, toPrinter: "Genesis")
 
 var fridgeIsOpen = false
 let fridgeContent: [String] = ["milk", "eggs", "leftovers"]
